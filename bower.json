@@ -1,0 +1,27 @@
+{
+  "name": "modalRefNatol",
+  "version": "0.0.1",
+  "main": "src/modal.natol.js",
+  "authors": [
+    "raul@natol.es"
+  ],
+  "description": "Simple modal window",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "http://natol.es",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
